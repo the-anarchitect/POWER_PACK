@@ -1,3 +1,0 @@
-# TESTING!!!
-
-Write-Output "TEST"
